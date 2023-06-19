@@ -1,2 +1,8 @@
 使用
 npm run start 运行 本地服务localhost:8080
+
+首次登录使用npm i 引入包
+未上传的文件：
+    node_modules
+    dist
+    gitignore
