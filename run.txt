@@ -6,3 +6,8 @@ npm run start 运行 本地服务localhost:8080
     node_modules
     dist
     gitignore
+
+本页面具备更多的展示效果，参考图片other.png
+本页面其他效果请联系：
+    联系人  ：李永宏　
+    联系电话：18150202692
